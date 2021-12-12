@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Canvas-Drawing/static/css/main.cf203cd9.chunk.css",
+    "main.js": "/Canvas-Drawing/static/js/main.5eb3c22b.chunk.js",
+    "main.js.map": "/Canvas-Drawing/static/js/main.5eb3c22b.chunk.js.map",
+    "runtime-main.js": "/Canvas-Drawing/static/js/runtime-main.2c3cd4a1.js",
+    "runtime-main.js.map": "/Canvas-Drawing/static/js/runtime-main.2c3cd4a1.js.map",
+    "static/js/2.7e049cfc.chunk.js": "/Canvas-Drawing/static/js/2.7e049cfc.chunk.js",
+    "static/js/2.7e049cfc.chunk.js.map": "/Canvas-Drawing/static/js/2.7e049cfc.chunk.js.map",
+    "static/js/3.e2946631.chunk.js": "/Canvas-Drawing/static/js/3.e2946631.chunk.js",
+    "static/js/3.e2946631.chunk.js.map": "/Canvas-Drawing/static/js/3.e2946631.chunk.js.map",
+    "index.html": "/Canvas-Drawing/index.html",
+    "static/css/main.cf203cd9.chunk.css.map": "/Canvas-Drawing/static/css/main.cf203cd9.chunk.css.map",
+    "static/js/2.7e049cfc.chunk.js.LICENSE.txt": "/Canvas-Drawing/static/js/2.7e049cfc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Canvas-Drawing/static/media/brown-wooden-flooring.aa9d939b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c3cd4a1.js",
+    "static/js/2.7e049cfc.chunk.js",
+    "static/css/main.cf203cd9.chunk.css",
+    "static/js/main.5eb3c22b.chunk.js"
+  ]
+}
