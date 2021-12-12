@@ -41,8 +41,8 @@ function App() {
 
   const onMouseDown = (e) => {
     setPosition({
-      x: e.pageX - 200,
-      y: e.pageY - 82 
+      x: e.pageX - 240,
+      y: e.pageY - 88 
     });
     setMouseDown(true);
   };
@@ -52,7 +52,7 @@ function App() {
   };
 
   const onMouseMove = (e) => {
-    draw(e.pageX - 200, e.pageY - 82);
+    draw(e.pageX - 240, e.pageY - 88);
   };
 
 
